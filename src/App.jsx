@@ -84,12 +84,12 @@ export function App(){
             <Paper style={{ padding: '20px', width: 'auto', display:'float', margin: 'auto', background: '#33333D',maxWidth:'16em'}} elevation={6} >
                 <h2 style={{textAlign:'center', fontFamily: 'monospace', color:'white'}}>ESCRIBE UNA NUEVA TAREA</h2>
 
-               <div style={{paddingLeft:'3em'}}>  <input style={{fontFamily: 'monospace'}} ref={todoTaskRef} type='text' placeholder="Nueva Tarea" /><a>{' '}</a>
+               <div style={{paddingLeft:'3em'}}>  <input style={{fontFamily: 'monospace'}} ref={todoTaskRef} type='text' placeholder="Nueva Tarea" />
                      </div>
                 <div style={{ display: 'white', height: '10px' }}></div>
                 
                <div style={{marginLeft: '6em'}}> <Button variant="contained" color="primary" onClick={handleTodoAdd} >➕</Button>
-                <a>{' '}</a>
+               
               </div>
              </Paper>
 
