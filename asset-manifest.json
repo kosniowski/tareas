@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "/kosniowski/tareas.git/static/js/main.a0d877eb.chunk.js",
+    "main.js.map": "/kosniowski/tareas.git/static/js/main.a0d877eb.chunk.js.map",
+    "runtime-main.js": "/kosniowski/tareas.git/static/js/runtime-main.a388e7d2.js",
+    "runtime-main.js.map": "/kosniowski/tareas.git/static/js/runtime-main.a388e7d2.js.map",
+    "static/js/2.467aa09c.chunk.js": "/kosniowski/tareas.git/static/js/2.467aa09c.chunk.js",
+    "static/js/2.467aa09c.chunk.js.map": "/kosniowski/tareas.git/static/js/2.467aa09c.chunk.js.map",
+    "index.html": "/kosniowski/tareas.git/index.html",
+    "static/js/2.467aa09c.chunk.js.LICENSE.txt": "/kosniowski/tareas.git/static/js/2.467aa09c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a388e7d2.js",
+    "static/js/2.467aa09c.chunk.js",
+    "static/js/main.a0d877eb.chunk.js"
+  ]
+}
